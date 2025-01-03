@@ -1,0 +1,7 @@
+form.d-flex {
+    justify-content: center;
+}
+
+.navbar-nav {
+    margin-right: 20px; /* เพิ่มช่องว่างระหว่างเมนู */
+}
